@@ -1,0 +1,10 @@
+To my apprentice,
+
+I'm at the inventors' fair until December 4. While I'm away:
+- The gears need oil every 30 days. oil-log.txt says when they last had it.
+- The kettle-bot pours tea only when the POWER environment variable is on.
+- The oil can is in tools. Call it by name, from anywhere: oil gears
+
+Read a machine before you run it. Programs often do more than you'd think.
+
+- Ada
